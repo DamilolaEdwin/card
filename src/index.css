@@ -25,3 +25,31 @@
   font-family: Arial, sans-serif;
   color: hsl(0, 0%, 30%);
 }
+
+.card2{
+  border: 1px solid hsl(0, 1%, 44%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(161, 11%, 43%);
+  padding: 20px;
+  margin: 10px;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.card-image2{
+  max-width: 60px;
+  height: auto;
+  border-radius: 30%;
+  margin-bottom: 10px;
+}
+
+.card2 .card-title2{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: hsl(0, 0%, 30%);
+}
+
+.card2 .card-text2{
+  font-family: Arial, sans-serif;
+  color: hsl(0, 0%, 30%);
+}

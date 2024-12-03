@@ -7,7 +7,7 @@ function Card(){
         <div className="card">
             <img className="card-image" src={profilePic} alt="profile picture" />
             <h2 className="card-title">Eddy</h2>
-            <p className="card-text">I speak the language of the web and love reading.</p>
+            <p className="card-text">Building is the fastest way to gain mastery.</p>
         </div>
 
     );

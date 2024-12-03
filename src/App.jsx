@@ -1,4 +1,5 @@
 import Card from './Card'
+import Card2 from './Card2'
 
 function App() {
   
@@ -6,6 +7,7 @@ function App() {
   return (
     <>
      <Card />
+     <Card2 />
     </>
   )
 }
